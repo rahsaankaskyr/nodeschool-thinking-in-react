@@ -1,0 +1,17 @@
+
+
+
+put folder /usr/local/lib/
+
+
+
+thinking-in-react
+
+$ npm install -g thinking-in-react
+
+
+
+
+Usage
+
+$ thinking-in-react
